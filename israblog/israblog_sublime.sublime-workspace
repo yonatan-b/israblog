@@ -1,0 +1,567 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"MINN"
+			],
+			[
+				"post_co",
+				"post_content"
+			],
+			[
+				"post_content",
+				"post_content_list"
+			],
+			[
+				"gen",
+				"genObj"
+			],
+			[
+				"set",
+				"set_trace"
+			],
+			[
+				"days",
+				"days_old_arr"
+			],
+			[
+				"po",
+				"point_array"
+			],
+			[
+				"merge",
+				"merge_sort"
+			],
+			[
+				"test_merge",
+				"test_merge_sort"
+			],
+			[
+				"n_xav",
+				"n_xavlaz_pos"
+			],
+			[
+				"n_x",
+				"n_xavlaz_neg"
+			],
+			[
+				"n_xa",
+				"n_xavlaz_pos"
+			],
+			[
+				"n_",
+				"n_metaling"
+			],
+			[
+				"cl",
+				"clmn"
+			],
+			[
+				"n_neg",
+				"n_neg"
+			],
+			[
+				"hav",
+				"havlaz_arr"
+			],
+			[
+				"found",
+				"foundXaval"
+			],
+			[
+				"pat_",
+				"pat_xaval"
+			],
+			[
+				"fou",
+				"found_xaval"
+			],
+			[
+				"foun",
+				"found_xaval"
+			],
+			[
+				"Fou",
+				"foundK"
+			],
+			[
+				"f",
+				"foundXavalaz"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"ha",
+				"hayta"
+			],
+			[
+				"con",
+				"contentArr"
+			],
+			[
+				"ra",
+				"rachelHistGroupA"
+			],
+			[
+				"revew",
+				"reviewContent"
+			],
+			[
+				"re",
+				"reviewTime"
+			],
+			[
+				"review",
+				"reviewTime"
+			],
+			[
+				"rev",
+				"reviewDate"
+			],
+			[
+				"fil",
+				"filmURL"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"pa",
+				"parse_attr"
+			],
+			[
+				"Fiel",
+				"Field"
+			],
+			[
+				"Sc",
+				"ScrapeSeretItem"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"it",
+				"item"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "spiders/israblog_scrape.py",
+			"settings":
+			{
+				"buffer_size": 3233,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "items.py",
+			"settings":
+			{
+				"buffer_size": 508,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/israela/Desktop/israblog/scrapy.cfg",
+			"settings":
+			{
+				"buffer_size": 260,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 3200,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 58.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/israela/Desktop/israblog/scratch_pad.txt",
+		"/C/Users/israela/Desktop/israblog/israblog/israblog.jl",
+		"/C/Users/israela/Desktop/israblog/israblog/pipelines.py",
+		"/C/Users/israela/Desktop/__israblog__/israblog/israblog/spiders/israblog_spider.py",
+		"/C/Users/israela/Desktop/__israblog__/israblog/israblog/spiders/gen_test.py",
+		"/C/Users/israela/Desktop/israblog/israblog/middlewares.py",
+		"/C/Users/israela/Desktop/__israblog__/israblog/israblog/items.py",
+		"/C/Users/israela/Desktop/israblog.py",
+		"/C/Users/israela/Desktop/israblog/israblog/israblog/settings.py",
+		"/C/Users/israela/Desktop/israblog/israblog/israblog/spiders/israblog_spider.py",
+		"/C/Users/israela/Desktop/israblog/israblog/israblog/items.py",
+		"/C/Users/israela/Desktop/algs_cormen/alglib.py",
+		"/C/Users/israela/Desktop/ScrapeSeret/searchlib.py",
+		"/C/Users/israela/Desktop/ScrapeSeret/myutils.py",
+		"/C/Users/israela/Desktop/israblog/israblog/israblog/spiders/gen_test.py",
+		"/C/Users/israela/Desktop/israblog/israblog/israblog/spiders/__init__.py",
+		"/C/Users/israela/Desktop/ScrapeSeret/ScrapeSeret/items.py",
+		"/C/Users/israela/Desktop/ScrapeSeret/ScrapeSeret/spiders/seretSpider.py",
+		"/C/Users/israela/Desktop/israblog/israblog/scrapy.cfg",
+		"/C/Users/israela/Desktop/israblog/israblog/israblog.csv",
+		"/C/Users/israela/Desktop/ScrapeSeret/ScrapeSeret/pipelines.py",
+		"/C/Users/israela/Desktop/ScrapeSeret/ScrapeSeret/spiders/__init__.py",
+		"/C/Users/israela/Desktop/ScrapeSeret/count_xavlaz.py",
+		"/C/Users/israela/Desktop/ScrapeSeret/plr_process.py",
+		"/C/Users/israela/Desktop/Homework_Programing/12.15/EX3.py",
+		"/C/Users/israela/Desktop/yannai/HelloWorld2_source_code/Listing_19-5.py",
+		"/C/Users/israela/Desktop/yannai/HelloWorld2_source_code/Listing_24-3.py",
+		"/C/Users/israela/Desktop/yannai/HelloWorld2_source_code/Listing_24-2.py",
+		"/C/Users/israela/Desktop/yannai/HelloWorld2_source_code/VirtualPet/Listing_24-4.py",
+		"/C/Users/israela/Desktop/dugma.c.txt",
+		"/C/Users/israela/Desktop/yannai/HelloWorld2_source_code/Listing_14-2.py",
+		"/C/Users/israela/Desktop/yannai/HelloWorld2_source_code/Listing_13-5.py",
+		"/C/Users/israela/Desktop/yannai/HelloWorld2_source_code/Skier/Listing_10-1.py",
+		"/C/Users/israela/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/israela/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/israela/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/israela/AppData/Roaming/Sublime Text 2/Packages/CSS/css_completions.py",
+		"/C/Users/israela/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/israela/Downloads/easygui-0.97.4/easygui-0.97.4/setup.py",
+		"/C/Users/israela/Desktop/yannai/my name.py",
+		"/C/Users/israela/Desktop/yannai/p_details.py",
+		"/C/Users/israela/Desktop/yannai/change.py",
+		"/C/Users/israela/Desktop/yannai/me.py",
+		"/C/Users/israela/Desktop/yannai/decpasito.py",
+		"/C/Users/israela/Desktop/ScrapeSeret/count_by_year.py",
+		"/C/Users/israela/Desktop/ScrapeSeret/count_features_v1.py",
+		"/C/Users/israela/Downloads/count_features_v1.py",
+		"/C/Users/israela/Desktop/ScrapeSeret/count_xavlaz_v1.py",
+		"/C/Users/israela/Desktop/algs_cormen/test1.py",
+		"/C/Users/israela/Desktop/algs_cormen/test1",
+		"/C/Users/israela/Desktop/algs_cormen/test1.py.txt",
+		"/C/Users/israela/Desktop/ScrapeSeret/xaval_items - old script.csv",
+		"/C/Users/israela/AppData/Roaming/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/C/Users/israela/Desktop/ScrapeSeret/xaval_lab_notes.txt",
+		"/C/Users/israela/Desktop/ScrapeSeret/count_haya.py",
+		"/C/Users/israela/Desktop/ScrapeSeret/haya_items.csv",
+		"/C/Users/israela/Desktop/ScrapeSeret/ScrapeSeret/settings.py",
+		"/C/Users/israela/Desktop/ScrapeSeret/count.py",
+		"/C/Users/israela/Desktop/ScrapeSeret/ScrapeSeret/input/seret_pure_url_list.txt",
+		"/C/Users/israela/Desktop/wilcox_power/test.py",
+		"/C/Users/israela/.ipython/profile_default/history.sqlite",
+		"/C/Users/israela/Desktop/ScrapeSeret/items.csv",
+		"/C/Users/israela/Desktop/seret_pure_url_list.txt",
+		"/C/Users/israela/Desktop/האם הפיזור מת.txt",
+		"/C/Users/israela/Desktop/בנות בסטייל _ Seret.co.il.html",
+		"/C/Users/israela/Desktop/pySeret.py",
+		"/C/Users/israela/Downloads/14f5eb28-a78d-4ced-a8a5-8fe70ffdf30f.json",
+		"/C/Users/israela/Downloads/scrapy-master/scrapy-master/scrapy/utils/url.py",
+		"/C/Users/israela/Desktop/02.txt",
+		"/C/Users/israela/Downloads/scrapy-master/scrapy-master/scrapy/spidermiddlewares/offsite.py",
+		"/C/Users/israela/Downloads/scrapy-master/scrapy-master/scrapy/contracts/default.py",
+		"/C/Users/israela/Downloads/scrapy-master/scrapy-master/scrapy/spiders/init.py",
+		"/C/Users/israela/Downloads/scrapy-master/scrapy-master/scrapy/extensions/spiderstate.py",
+		"/D/octave_scripts/mimun12.m",
+		"/C/Users/israela/Desktop/Seret.co.il __ ארכיון סרטים_שלם.html",
+		"/C/Users/israela/Desktop/אתר_סרט_url.xml",
+		"/C/Users/israela/Desktop/אתר_סרט_url.docx",
+		"/C/Users/israela/Desktop/RecentPlaces.lnk",
+		"/C/Users/israela/Desktop/ערבית/Label Track.txt",
+		"/J/maman14/maman14.gdt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"blog_title",
+			"set_trace",
+			"content",
+			"FEED",
+			"post_title",
+			"set_trace",
+			"detect",
+			"detect_slow",
+			"DictWriter",
+			"and",
+			"pos",
+			"detect",
+			"found",
+			"occ_list",
+			"print",
+			"k",
+			"היה",
+			"pdb",
+			"\\n",
+			"RAND",
+			"RANDOMIZE",
+			"RANDO",
+			"items",
+			"reviewrRating",
+			"FEED",
+			"URI",
+			"reviewrRating",
+			"reviewDateRE",
+			"pdb",
+			"parse_attr",
+			"items",
+			"reviewDate",
+			"reviewerDate",
+			"spider",
+			"allowed_domains"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"or",
+			"neg",
+			"foundarr",
+			"found",
+			",",
+			"reviewerRating",
+			"reviewDate"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "spiders/israblog_scrape.py",
+					"settings":
+					{
+						"buffer_size": 3233,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										1796,
+										1796
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "items.py",
+					"settings":
+					{
+						"buffer_size": 508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/israela/Desktop/israblog/scrapy.cfg",
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "settings.py",
+					"settings":
+					{
+						"buffer_size": 3200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1898,
+								1898
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 158.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
