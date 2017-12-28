@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"u",
+				"u"
+			],
+			[
+				"group_",
+				"group_a"
+			],
+			[
+				"to",
+				"to_whom"
+			],
+			[
+				"try",
+				"try	Try/Except/Else"
+			],
+			[
 				"m",
 				"MINN"
 			],
@@ -186,6 +202,22 @@
 				"buffer_size": 3200,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/C/Users/israela/Desktop/israblog/aux_src/search.py",
+			"settings":
+			{
+				"buffer_size": 2641,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/israela/Desktop/israblog/data/README.md",
+			"settings":
+			{
+				"buffer_size": 437,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
@@ -318,6 +350,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" ",
+			"dictlist_a",
+			",columns=df_columns",
+			"ignore_index=True",
+			"group",
+			"group_a",
+			"group",
+			"(,\n",
+			"group",
+			"pdb",
 			"blog_title",
 			"set_trace",
 			"content",
@@ -377,7 +419,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -405,8 +447,8 @@
 						"selection":
 						[
 							[
-								170,
-								170
+								23,
+								0
 							]
 						],
 						"settings":
@@ -498,6 +540,60 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/israela/Desktop/israblog/aux_src/search.py",
+					"settings":
+					{
+						"buffer_size": 2641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/israela/Desktop/israblog/data/README.md",
+					"settings":
+					{
+						"buffer_size": 437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								409
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -508,7 +604,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"layout":
 	{
@@ -536,6 +632,10 @@
 	"output.exec":
 	{
 		"height": 158.0
+	},
+	"output.git":
+	{
+		"height": 28.0
 	},
 	"replace":
 	{

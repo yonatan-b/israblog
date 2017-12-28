@@ -1,7 +1,7 @@
 # israblog
 command line:
 -------------
-C:\Users\Desktop\israblog\israblog>scrapy crawl israblog_scrape -o israblog.jl
+.\israblog\israblog>scrapy crawl israblog_scrape -o israblog.jl
 
 scraper statistics:
 -------------------
