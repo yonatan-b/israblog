@@ -27,45 +27,50 @@ if not filename.strip():
 if not ofilename.strip():
 	ofilename = '..\\data\\israblog_matches.xlsx'
 
-list_a, list_b, list_c, list_d = [],[],[],[]
+
 n_match=0
 with open(filename, mode='r', encoding="utf8") as f:
 	for index,line in enumerate(f):
 		item = json.loads(line)
+		item['match'] = ''
 		post_content = item['post_content']
 		b_match = False
+		list_a, list_b, list_c, list_d = [],[],[],[]
 		if post_content :
 			list_a = re.findall(regex_a, post_content)
 			list_b = re.findall(regex_b, post_content)
 			list_c = re.findall(regex_c, post_content)
 			list_d = re.findall(regex_d, post_content)
+		# if re.match( "\W+\s+Me", item['nickname']):
+		# 	pass
 		if list_a:
 			b_match = True
 			for match in list_a:
-				item['match'] = match
-				#pdb.set_trace()
-				dictlist_a.append(item)
+				item_copy= item.copy()
+				item_copy.update({'match':match})
+				dictlist_a.append(item_copy)
 		if list_b:
 			b_match = True
 			for match in list_b:
-				item['match'] = match
-				dictlist_b.append(item)
+				item_copy= item.copy()
+				item_copy.update({'match':match})
+				dictlist_b.append(item_copy)
 		if list_c:
 			b_match = True
 			for match in list_c:
-				item['match'] = match
-				#pdb.set_trace()
-				dictlist_c.append(item)
+				item_copy= item.copy()
+				item_copy.update({'match':match})
+				dictlist_c.append(item_copy)
 		if list_d:
 			b_match = True
 			for match in list_d:
-				item['match'] = match
-				#pdb.set_trace()
-				dictlist_d.append(item)
+				item_copy= item.copy()
+				item_copy.update({'match':match})
+				dictlist_d.append(item_copy)
 		if b_match:
 			n_match+=1
 			print (' '*150,end='\r')
-			print ('{} item(s) matched. Last match ln.: {}. Match: {}'.format(n_match, index,match.replace('\n',' ')),end='\r')
+			print ('Found (1 or more) matches in {} item(s). Last match ln.: {}. Match: {}'.format(n_match, index,match.replace('\n',' ')),end='\r')
 
 group_a = pd.DataFrame(dictlist_a,columns=df_columns)
 group_b = pd.DataFrame(dictlist_b,columns=df_columns)

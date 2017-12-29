@@ -10,8 +10,8 @@ default output '..\data\israblog_matches.xlsx'
 
 search statistics:
 -------------------
-28340 item(s) matched. 
-Last match ln.: 729399.
+Found (1 or more) matches in 25179 item(s). 
+Last match ln.: 739601.
 
 output group description
 ------------------------
