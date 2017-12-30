@@ -16,6 +16,6 @@ Last match ln.: 739601.
 output group description
 ------------------------
 group_a == hayta "lo" et ha-
-group_a == hayta "lo" 	 ha-
-group_a == haya "lo" et ha-
-group_a == haya "lo" 	 ha-
+group_b == hayta "lo" 	 ha-
+group_c == haya "lo" et ha-
+group_d == haya "lo" 	 ha-
