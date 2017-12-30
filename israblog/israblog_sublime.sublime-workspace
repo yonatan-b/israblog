@@ -207,15 +207,26 @@
 			"file": "/C/Users/israela/Desktop/israblog/aux_src/search.py",
 			"settings":
 			{
-				"buffer_size": 2641,
+				"buffer_size": 2857,
 				"line_ending": "Windows"
 			}
 		},
 		{
+			"contents": "# search israblog for 4 patterns\ncommand line:\n-------------\npython search.py\n\nparameters:\n-----------\ndefault input '..\\data\\israblog.jl'\ndefault output '..\\data\\israblog_matches.xlsx'\n\nsearch statistics:\n-------------------\nFound (1 or more) matches in 25179 item(s). \nLast match ln.: 739601.\n\noutput group description\n------------------------\ngroup_a == hayta \"lo\" et ha-\ngroup_b == hayta \"lo\" 	 ha-\ngroup_c == haya \"lo\" et ha-\ngroup_d == haya \"lo\" 	 ha-\n",
 			"file": "/C/Users/israela/Desktop/israblog/data/README.md",
+			"file_size": 458,
+			"file_write_time": 131590416471325680,
 			"settings":
 			{
-				"buffer_size": 437,
+				"buffer_size": 458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/israela/Desktop/israblog/README.md",
+			"settings":
+			{
+				"buffer_size": 1809,
 				"line_ending": "Unix"
 			}
 		}
@@ -223,7 +234,7 @@
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 104.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
@@ -252,6 +263,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/israela/Desktop/israblog/README.md",
 		"/C/Users/israela/Desktop/israblog/scratch_pad.txt",
 		"/C/Users/israela/Desktop/israblog/israblog/israblog.jl",
 		"/C/Users/israela/Desktop/israblog/israblog/pipelines.py",
@@ -350,6 +362,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"pdb.set_trace()",
+			"item['match'] = match",
+			"item",
 			" ",
 			"dictlist_a",
 			",columns=df_columns",
@@ -447,8 +462,8 @@
 						"selection":
 						[
 							[
-								23,
-								0
+								698,
+								698
 							]
 						],
 						"settings":
@@ -546,15 +561,15 @@
 					"file": "/C/Users/israela/Desktop/israblog/aux_src/search.py",
 					"settings":
 					{
-						"buffer_size": 2641,
+						"buffer_size": 2857,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								994,
+								994
 							]
 						],
 						"settings":
@@ -574,15 +589,41 @@
 					"file": "/C/Users/israela/Desktop/israblog/data/README.md",
 					"settings":
 					{
-						"buffer_size": 437,
+						"buffer_size": 458,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								409,
-								409
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/israela/Desktop/israblog/README.md",
+					"settings":
+					{
+						"buffer_size": 1809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								102
 							]
 						],
 						"settings":
